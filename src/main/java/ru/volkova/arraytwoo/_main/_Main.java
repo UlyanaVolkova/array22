@@ -10,7 +10,6 @@ public class _Main {
         arr2[1]= -2;
         arr2[2]= 15;
         arr2[3]= 4;
-
         Service service = new Service();
         service.ascending(arr2);
     }
